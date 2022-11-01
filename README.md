@@ -2,7 +2,7 @@
 Gas Leakage monitoring &amp; Alerting system for Industries
 Team members
       1.Akshaya.M
-      2.Kasthuru.M
+      2.Kasthuri.M
       3.Soundarya.S
       4.Sarathapriya.C
 
